@@ -15,6 +15,4 @@ Currently exploring **Generative AI** while shipping side projects.
 
 **Notable repos:** [Sabrina](https://github.com/Lovish-Thukral/Sabrina) · [Bliss](https://github.com/Lovish-Thukral/Bliss) · [Nextep-AI](https://github.com/Lovish-Thukral/Nextep-AI) · [Lattix](https://github.com/Lovish-Thukral/Lattix)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovish-Thukral&layout=compact&theme=radical&hide_border=true)
-
 </div>
